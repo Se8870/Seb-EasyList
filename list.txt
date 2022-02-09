@@ -1,0 +1,11 @@
+! 2021-2-10 block otakudesu
+||bp.blogspot.com/*.gif$image,domain=otakudesu.*
+||desustream.me/banner/*$image
+||blogger.googleusercontent.com/*$domain=otakudesu.*
+
+otakudesu.*##.iklanpost
+otakudesu.*##div.iklan:nth-of-type(3)
+otakudesu.*##div.iklan:nth-of-type(5)
+otakudesu.*##div.iklan:nth-of-type(6)
+otakudesu.*##div.iklan:nth-of-type(7)
+otakudesu.*##.box_item_ads_popup
